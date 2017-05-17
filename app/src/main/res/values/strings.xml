@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherIn</string>
+    <string name="body_error">API returned empty response</string>
+    <string name="city_name">Enter city name</string>
+    <string name="delete_alert">The city has been deleted</string>
+    <string name="api_error">API error occurred</string>
+    <string name="no_internet_error">No internet connection</string>
+    <string name="temperature">%d °C</string>
+</resources>
